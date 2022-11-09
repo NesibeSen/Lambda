@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Lambda01 {
+public class
+Lambda01 {
     public static void main(String[] args) {
 /*
 	 	1) Lambda "Functional Programming"-->mathod(action) kullanma pr dili.
